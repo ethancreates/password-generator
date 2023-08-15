@@ -1,0 +1,34 @@
+body {
+	margin: 100px 100px;
+	background-color: #b00b69;
+	color: antiquewhite;
+	font-family: "Roboto", sans-serif;
+}
+
+#hero-text {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: left;
+}
+
+h1 {
+	margin-bottom: 0;
+}
+
+#random-pw-text {
+	color: green;
+}
+
+#generate-btn {
+	padding: 5px 10px;
+}
+
+#password-length {
+	width: 80px;
+	color: #b00b69;
+}
+
+.passwords-container {
+	color: antiquewhite;
+}
